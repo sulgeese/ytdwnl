@@ -8,7 +8,9 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "yt-dlp (>=2025.2.19,<2026.0.0)"
+    "yt-dlp (>=2025.2.19,<2026.0.0)",
+    "aiogram (>=3.19.0,<4.0.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)"
 ]
 
 
